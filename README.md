@@ -28,7 +28,7 @@ Interface leve, fácil de customizar e preparar para produção.
 - TypeScript
 - Tailwind CSS
 
-## Captura de tela / Demo
+<!-- ## Captura de tela / Demo
 
 Insira capturas de tela ou GIFs na pasta `assets/` e referencie aqui.
 
@@ -38,7 +38,7 @@ Exemplo de uso de GIF (troque pelo seu arquivo):
 
 ![Demo GIF placeholder](./assets/demo.gif)
 
-Dica: gere um GIF curto (5-8s) mostrando a tela principal e coloque em `assets/demo.gif`.
+Dica: gere um GIF curto (5-8s) mostrando a tela principal e coloque em `assets/demo.gif`. -->
 
 ## Instalação
 
