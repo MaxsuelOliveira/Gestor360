@@ -60,8 +60,8 @@ docker-compose up -d
 ### 📦 Instalação da API
 
 ```powershell
-git clone https://github.com/seu-usuario/nome-da-api.git
-cd nome-da-api
+git clone https://github.com/MaxsuelOliveira/gestor360-api
+cd gestor360-api
 npm install
 ```
 
